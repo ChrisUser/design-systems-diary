@@ -24,7 +24,7 @@ If you know a resource or an interesting topic that isn't listed below nor detai
 
 <div align=center>
 
-![BrightVessel's customer journey layers map](https://github.com/ChrisUser/design-systems-diary/blob/main/images/customer_journey_layers_brightvessel.png?raw=true)
+![BrightVessel's customer journey layers map](https://github.com/ChrisUser/design-systems-diary/blob/main/images/customer_journey_layers_brightvessel.PNG?raw=true)
 
 _Here you can see an example of a customer journey for an E-Commerce platform: the largest number of interactions are in the "Acquisition" stage. It also considers future user engagement touchpoints such as a newsletter._
 
