@@ -52,12 +52,12 @@ _Here you can see an example of a customer journey for an E-Commerce platform: t
 
 **Pros**:
 
-1. Gives us insight into users’ needs and which features to prioritize;
-2. Can be used as a **communication tool** across all the business teams;
-3. Decreases customer churn and increases customer lifetime value;
+1. Gives us insight into users’ needs and which features to prioritize
+2. Can be used as a **communication tool** across all the business teams
+3. Decreases customer churn and increases customer lifetime value
 
 **Cons**:
 
-1. Needs to have very clear intent and a well defined scope level;
-2. Needs cross-teams effort and support to be implemented;
-3. Needs - "_quite a lot of_" - customers data to rely on;
+1. Needs to have very clear intent and a well defined scope level
+2. Needs **cross-teams effort** and support to be implemented
+3. Needs - "_quite a lot of_" - customers data to rely on
