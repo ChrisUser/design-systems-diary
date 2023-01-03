@@ -21,10 +21,10 @@ All the provided links have been reviewed following this system:
 **What can be found inside this project?**
 
 - [Topic](#topic)
-- [Topic 2](#topic-2)
-- [Topic 3](#topic-3)
+- [Documentation](#topic-2)
+- [Maintenance](#maintenance)
 
-## Topic
+## Maintenance
 
 ### Customer journey map
 
