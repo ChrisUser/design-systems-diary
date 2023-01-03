@@ -24,6 +24,18 @@ All the provided links have been reviewed following this system:
 - [Documentation](#topic-2)
 - [Maintenance](#maintenance)
 
+## Topic
+
+### Accessibility
+
+> **Note**: "Accessibility (often abbreviated to A11y — as in, "a", then 11 characters, and then "y") in web development means enabling as many people as possible to use websites, even when those people's abilities are limited in some way." - [MDN web docs](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
+
+> **Note**: "**The Web is fundamentally designed to work for all people**, whatever their hardware, software, language, location, or ability. When the Web meets this goal, it is accessible to people with a diverse range of hearing, movement, sight, and cognitive ability." - [W3C - Accessibility](https://www.w3.org/standards/webdesign/accessibility)
+
+<br />
+
+-
+
 ## Maintenance
 
 ### Customer journey map
