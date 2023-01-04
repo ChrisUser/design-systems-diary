@@ -25,6 +25,8 @@ All the provided links have been reviewed following this system:
 - [Documentation](#topic-2)
 - [Maintenance](#maintenance)
 
+---
+
 ## Colors
 
 ### Colors meaning
@@ -46,6 +48,27 @@ The following table describes the positive and negative things associated(\*) wi
 
 <br/>
 
+### Color palette
+
+> **Note**: A color palette, in the digital world, refers to the **full range of colors** that can be displayed on a device screen or other interface. The color palette **reveals a lot** about the electronic design of the device or technology, and its visual capabilities for human users.
+
+<br />
+
+<div align=center>
+
+![Various color palettes](https://github.com/ChrisUser/design-systems-diary/blob/main/images/color_palettes.jpg?raw=true)
+
+_Here you can see various examples of web color palettes with dark and light colors, ranging from blue to green and a little bit of red._
+
+</div>
+
+<br />
+
+- [How to make your own color palettes](https://medium.com/@greggunn/how-to-make-your-own-color-palettes-712959fbf021)
+- [How to Not Suck at Color](https://modus.medium.com/how-to-not-suck-at-color-b3980ee8084a)
+
+---
+
 ## Accessibility
 
 > **Note**: "_Accessibility (often abbreviated to A11y — as in, "a", then 11 characters, and then "y") in web development means enabling as many people as possible to use websites, even when those people's abilities are limited in some way._" - [MDN web docs](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
@@ -54,7 +77,7 @@ The following table describes the positive and negative things associated(\*) wi
 
 <br />
 
--
+- ***
 
 ## Maintenance
 
