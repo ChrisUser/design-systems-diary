@@ -29,7 +29,7 @@ All the provided links have been reviewed following this system:
 
 ### Colors meaning
 
-The following table describes the positive and negative things associated with each listed color:
+The following table describes the positive and negative things associated(\*) with each listed color:
 
 | **Color** | **Positive feeling / things**                                                 | **Negative feeling / things**                       |
 | :-------: | :---------------------------------------------------------------------------- | :-------------------------------------------------- |
@@ -42,7 +42,7 @@ The following table describes the positive and negative things associated with e
 |   Black   | Power, elegance, professionalism and depth                                    | Death, unknown, mystery, grief, mourning and sorrow |
 |   White   | Purity, innocence, cleanliness and safety                                     | Coldness and distance                               |
 
-##### **Those are just a few of the possible associations. You can also find the same sentiment associated with more than one color.**
+##### **(\*) Those are just a few of the possible associations. You can also find the same sentiment associated with more than one color.**
 
 <br/>
 
