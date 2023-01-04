@@ -20,13 +20,33 @@ All the provided links have been reviewed following this system:
 
 **What can be found inside this project?**
 
-- [Topic](#topic)
+- [Colors](#colors)
+- [Accessibility](#accessibility)
 - [Documentation](#topic-2)
 - [Maintenance](#maintenance)
 
-## Topic
+## Colors
 
-### Accessibility
+### Colors meaning
+
+The following table describes the positive and negative things associated with each listed color:
+
+| **Color** | **Positive feeling / things**                                                 | **Negative feeling / things**                       |
+| :-------: | :---------------------------------------------------------------------------- | :-------------------------------------------------- |
+|    Red    | Power, passion, energy and excitement                                         | Anger, emergency and rage                           |
+|  Orange   | Happiness, sunshine and joy                                                   | Aggressivity, ignorance and deceit                  |
+|  Yellow   | Happiness, intelligence and optimism                                          | Caution, criticism, laziness and jealousy           |
+|   Green   | Nature, growth, harmony and money                                             | Greed and lack of experience                        |
+|   Blue    | Peace, calm, stability, expertise, trust and dependability                    | Depression, coldness and passiveness                |
+|  Purple   | Royalty, sophistication, luxury, wealth, spirituality, creativity and healing | Gloominess and sadness                              |
+|   Black   | Power, elegance, professionalism and depth                                    | Death, unknown, mystery, grief, mourning and sorrow |
+|   White   | Purity, innocence, cleanliness and safety                                     | Coldness and distance                               |
+
+##### **Those are just a few of the possible associations. You can also find the same sentiment associated with more than one color.**
+
+<br/>
+
+## Accessibility
 
 > **Note**: "_Accessibility (often abbreviated to A11y — as in, "a", then 11 characters, and then "y") in web development means enabling as many people as possible to use websites, even when those people's abilities are limited in some way._" - [MDN web docs](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
 
