@@ -44,7 +44,7 @@ All the provided links have been reviewed following this system:
 
 ### Color meanings
 
-The following table describes the positive and negative things associated(\*) with each listed color:
+The following table describes the positive and negative things associated[^1] with each listed color:
 
 | **Color** | **Positive feeling / things**                                                 | **Negative feeling / things**                       |
 | :-------: | :---------------------------------------------------------------------------- | :-------------------------------------------------- |
@@ -57,7 +57,7 @@ The following table describes the positive and negative things associated(\*) wi
 |   Black   | Power, elegance, professionalism and depth                                    | Death, unknown, mystery, grief, mourning and sorrow |
 |   White   | Purity, innocence, cleanliness and safety                                     | Coldness and distance                               |
 
-##### **(\*) Those are just a few of the possible associations. You can also find the same sentiment associated with more than one color.**
+[^1]: Those are just a few of the possible associations. You can also find the same sentiment associated with more than one color.
 
 <br/>
 
@@ -139,6 +139,7 @@ _Here you can see an example of a customer journey for an E-Commerce platform: t
 
 > **Note**: Documenting is a fundamental act to make sure that project requirements are **fulfilled** and to establish traceability concerning **what** has been done, **who** has done it, and **when** it has been done.
 
-<br/>
+> **Hint**: To keep a history of the changes made on a project you should create a [CHANGELOG.md](https://github.com/ChrisUser/design-systems-diary/blob/main/CHANGELOG.md) file and keep it in the root folder of the project itself.
+> <br/>
 
 -
