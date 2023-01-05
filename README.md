@@ -6,7 +6,7 @@
 
 If you know a resource or an interesting topic that isn't listed below nor detailed enough feel free to create a new [pull request](https://github.com/ChrisUser/design-systems-diary/pulls).
 
-<br />
+<br/>
 
 **Basic info**
 
@@ -16,7 +16,7 @@ All the provided links have been reviewed following this system:
 | :---------: | :-------------: | :------: |
 | **Awesome** | **Interesting** | **Good** |
 
-<br />
+<br/>
 
 **What can be found inside this project?**
 
@@ -25,9 +25,21 @@ All the provided links have been reviewed following this system:
 - [Documentation](#topic-2)
 - [Maintenance](#maintenance)
 
+**Articles that inspired this work:**
+
+- [The self-taught UI/UX designer roadmap in 2021](https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb)
+- [Atomic design by Brad Frost](https://bradfrost.com/blog/post/atomic-web-design/)
+
+<br/>
+
 ---
 
 ## Colors
+
+🎁 **Resources**
+
+- [Create a palette with Coolors](https://coolors.co/generate)
+- [Check your colors' contrast](https://contrastchecker.com/)
 
 ### Colors meaning
 
@@ -77,7 +89,12 @@ _Here you can see various examples of web color palettes with dark and light col
 
 <br />
 
-- ***
+🎁 **Resources**
+
+- [Twitter @a11y](https://twitter.com/a11y)
+- [A11y Mockups annotation kit](https://www.figma.com/community/file/953682768192596304)
+
+---
 
 ## Maintenance
 
