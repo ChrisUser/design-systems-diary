@@ -29,6 +29,7 @@ All the provided links have been reviewed following this system:
 
 - [The self-taught UI/UX designer roadmap in 2021](https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb)
 - [Atomic design by Brad Frost](https://bradfrost.com/blog/post/atomic-web-design/)
+- [CSS architecture for design systems](https://bradfrost.com/blog/post/css-architecture-for-design-systems/)
 
 <br/>
 
@@ -41,7 +42,7 @@ All the provided links have been reviewed following this system:
 - [Create a palette with Coolors](https://coolors.co/generate)
 - [Check your colors' contrast](https://contrastchecker.com/)
 
-### Colors meaning
+### Color meanings
 
 The following table describes the positive and negative things associated(\*) with each listed color:
 
@@ -133,3 +134,11 @@ _Here you can see an example of a customer journey for an E-Commerce platform: t
 1. Needs to have very clear intent and a well defined scope level
 2. Needs **cross-teams effort** and support to be implemented
 3. Needs - "_quite a lot of_" - customers data to rely on
+
+### Documenting a design system
+
+> **Note**: Documenting is a fundamental act to make sure that project requirements are **fulfilled** and to establish traceability concerning **what** has been done, **who** has done it, and **when** it has been done.
+
+<br/>
+
+-
