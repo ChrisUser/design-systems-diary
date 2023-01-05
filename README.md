@@ -41,7 +41,7 @@ All the provided links have been reviewed following this system:
 - [Create a palette with Coolors](https://coolors.co/generate)
 - [Check your colors' contrast](https://contrastchecker.com/)
 
-### Colors meaning
+### Color meanings
 
 The following table describes the positive and negative things associated(\*) with each listed color:
 
