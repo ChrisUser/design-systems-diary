@@ -14,6 +14,8 @@ All the provided links have been reviewed following this system:
 | :---------: | :-------------: | :------: |
 | **Awesome** | **Interesting** | **Good** |
 
+For some topics you will find the 🎁 icon indicating some fun practical resources to learn/understand faster the subject in question.
+
 **What can be found inside this project?**
 
 - [Colors](#colors)
