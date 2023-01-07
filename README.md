@@ -1,6 +1,6 @@
 <h1 align=center>A design systems diary</h1>
 
-![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-blue.svg)
+![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-blue.svg)
 
 **How to contribute?**
 
