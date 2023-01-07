@@ -1,6 +1,6 @@
 <h1 align=center>A design systems diary</h1>
 
-![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-blue.svg)
+![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-blue.svg)
 
 **How to contribute?**
 
@@ -14,7 +14,9 @@ All the provided links have been reviewed following this system:
 | :---------: | :-------------: | :------: |
 | **Awesome** | **Interesting** | **Good** |
 
-For some topics you will find the 🎁 icon indicating some fun practical resources to learn/understand faster the subject in question.
+For some topics you will find the 🎁 icon indicating some fun practical resources[^1] to learn/understand faster the subject in question. Enjoy them and remember to **support the authors** if you can!
+
+[^1]: If you are the creator/owner of a specific resource listed in this project and you wish to have the link removed you can open an issue with the **invalid** tag. Thank you in advance.
 
 **What can be found inside this project?**
 
@@ -42,7 +44,7 @@ For some topics you will find the 🎁 icon indicating some fun practical resour
 
 ### Color meanings
 
-The following table describes the positive and negative things associated[^1] with each listed color:
+The following table describes the positive and negative things associated[^2] with each listed color:
 
 | **Color** | **Positive feeling / things**                                                 | **Negative feeling / things**                       |
 | :-------: | :---------------------------------------------------------------------------- | :-------------------------------------------------- |
@@ -55,7 +57,7 @@ The following table describes the positive and negative things associated[^1] wi
 |   Black   | Power, elegance, professionalism and depth                                    | Death, unknown, mystery, grief, mourning and sorrow |
 |   White   | Purity, innocence, cleanliness and safety                                     | Coldness and distance                               |
 
-[^1]: Those are just a few of the possible associations. You can also find the same sentiment associated with more than one color.
+[^2]: Those are just a few of the possible associations. You can also find the same sentiment associated with more than one color.
 
 <br/>
 
