@@ -6,8 +6,6 @@
 
 If you know a resource or an interesting topic that isn't listed below nor detailed enough feel free to create a new [pull request](https://github.com/ChrisUser/design-systems-diary/pulls).
 
-<br/>
-
 **Basic info**
 
 All the provided links have been reviewed following this system:
@@ -16,7 +14,7 @@ All the provided links have been reviewed following this system:
 | :---------: | :-------------: | :------: |
 | **Awesome** | **Interesting** | **Good** |
 
-<br/>
+For some topics you will find the 🎁 icon indicating some fun practical resources to learn/understand faster the subject in question.
 
 **What can be found inside this project?**
 
