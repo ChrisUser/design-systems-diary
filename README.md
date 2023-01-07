@@ -14,7 +14,7 @@ All the provided links have been reviewed following this system:
 | :---------: | :-------------: | :------: |
 | **Awesome** | **Interesting** | **Good** |
 
-For some topics you will find the 🎁 icon indicating some fun practical resources[^1] to learn/understand faster the subject in question.
+For some topics you will find the 🎁 icon indicating some fun practical resources[^1] to learn/understand faster the subject in question. Enjoy them and remember to **support the authors** if you can!
 
 [^1]: If you are the creator/owner of a specific resource listed in this project and you wish to have the link removed you can open an issue with the **invalid** tag. Thank you in advance.
 
