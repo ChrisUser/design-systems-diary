@@ -159,7 +159,9 @@ _Here you can see an example of a customer journey for an E-Commerce platform: t
 **Pros**:
 
 1. Gives all the designers and frontend devs a full comprehensive guide to use and understand the best scenarios for each component
+2. Works as a **dynamic database** of assets, illustrations, components and compositions
 
 **Cons**:
 
-1. Needs to be ma
+1. Needs to be maintained constantly over time for each small change made by everyone in the dev or designers team
+2. Can become too specific or complicated if there's **lack of communication** between the parts
