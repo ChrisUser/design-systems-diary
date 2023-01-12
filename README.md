@@ -89,8 +89,6 @@ _Here you can see various examples of web color palettes with dark and light col
 
 > **Note**: "_The Web is fundamentally designed to work for all people, whatever their hardware, software, language, location, or ability. When the Web meets this goal, it is accessible to people with a diverse range of hearing, movement, sight, and cognitive ability._" - [W3C - Accessibility](https://www.w3.org/standards/webdesign/accessibility)
 
-<br />
-
 🎁 **Resources**
 
 - [Twitter @a11y](https://twitter.com/a11y)
@@ -99,6 +97,11 @@ _Here you can see various examples of web color palettes with dark and light col
 ---
 
 ## Maintenance
+
+🎁 **Resources**
+
+- [Storybook](https://storybook.js.org/)
+- [Bit](https://bit.cloud/frontend-teams)
 
 ### Customer journey map
 
@@ -141,11 +144,6 @@ _Here you can see an example of a customer journey for an E-Commerce platform: t
 ### Documenting a design system
 
 > **Note**: Documenting is a fundamental act to make sure that project requirements are **fulfilled** and to establish traceability concerning **what** has been done, **who** has done it, and **when** it has been done.
-
-🎁 **Resources**
-
-- [Storybook](https://storybook.js.org/)
-- [Bit](https://bit.cloud/frontend-teams)
 
 > 😉 **<ins>Hint</ins>**: To keep a history of the changes made on a project you should create a [CHANGELOG.md](https://github.com/ChrisUser/design-systems-diary/blob/main/CHANGELOG.md) file and keep it in the root folder of the project itself.
 
