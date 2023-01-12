@@ -165,5 +165,5 @@ _Here you can see an example of a customer journey for an E-Commerce platform: t
 
 **Cons**:
 
-1. Needs to be maintained constantly over time for each small change made by everyone in the dev or designers team
+1. Needs to be maintained constantly over time for each small change made by everyone in the dev or design team
 2. Can become too specific or complicated if there's **lack of communication** between the parts
