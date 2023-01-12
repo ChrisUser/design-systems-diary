@@ -140,8 +140,26 @@ _Here you can see an example of a customer journey for an E-Commerce platform: t
 
 > **Note**: Documenting is a fundamental act to make sure that project requirements are **fulfilled** and to establish traceability concerning **what** has been done, **who** has done it, and **when** it has been done.
 
+🎁 **Resources**
+
+- [Storybook](https://storybook.js.org/)
+- [Bit](https://bit.cloud/frontend-teams)
+
 > **<ins>Hint</ins>**: To keep a history of the changes made on a project you should create a [CHANGELOG.md](https://github.com/ChrisUser/design-systems-diary/blob/main/CHANGELOG.md) file and keep it in the root folder of the project itself.
 
 <br/>
 
--
+- [😍] [15 Essential Project Documents](https://www.projectmanager.com/blog/great-project-documentation)
+- [😍] [Material UI (MUI) Official Website](https://mui.com/)
+- [😍] [Storybook - How to document components](https://storybook.js.org/docs/react/writing-docs/introduction)
+- [😮] [Project Documentation and Its Importance in 2023](https://www.simplilearn.com/project-documentation-article)
+- [😮] [5 Ways to Document React Components in 2020](https://blog.bitsrc.io/5-ways-to-document-react-components-in-2020-ecf60f24dee8)
+- [😉] [My component library documentation page](https://chrisuser.github.io/react-usage-bar/docs/)
+
+**Pros**:
+
+1. Gives all the designers and frontend devs a full comprehensive guide to use and understand the best scenarios for each component
+
+**Cons**:
+
+1. Needs to be ma
