@@ -89,8 +89,6 @@ _Here you can see various examples of web color palettes with dark and light col
 
 > **Note**: "_The Web is fundamentally designed to work for all people, whatever their hardware, software, language, location, or ability. When the Web meets this goal, it is accessible to people with a diverse range of hearing, movement, sight, and cognitive ability._" - [W3C - Accessibility](https://www.w3.org/standards/webdesign/accessibility)
 
-<br />
-
 🎁 **Resources**
 
 - [Twitter @a11y](https://twitter.com/a11y)
