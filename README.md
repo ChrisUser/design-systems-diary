@@ -136,6 +136,8 @@ _Here you can see an example of a customer journey for an E-Commerce platform: t
 2. Needs **cross-teams effort** and support to be implemented
 3. Needs - "_quite a lot of_" - customers data to rely on
 
+<br/>
+
 ### Documenting a design system
 
 > **Note**: Documenting is a fundamental act to make sure that project requirements are **fulfilled** and to establish traceability concerning **what** has been done, **who** has done it, and **when** it has been done.
@@ -145,7 +147,7 @@ _Here you can see an example of a customer journey for an E-Commerce platform: t
 - [Storybook](https://storybook.js.org/)
 - [Bit](https://bit.cloud/frontend-teams)
 
-> **<ins>Hint</ins>**: To keep a history of the changes made on a project you should create a [CHANGELOG.md](https://github.com/ChrisUser/design-systems-diary/blob/main/CHANGELOG.md) file and keep it in the root folder of the project itself.
+> 😉 **<ins>Hint</ins>**: To keep a history of the changes made on a project you should create a [CHANGELOG.md](https://github.com/ChrisUser/design-systems-diary/blob/main/CHANGELOG.md) file and keep it in the root folder of the project itself.
 
 <br/>
 
