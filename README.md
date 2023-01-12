@@ -98,6 +98,11 @@ _Here you can see various examples of web color palettes with dark and light col
 
 ## Maintenance
 
+🎁 **Resources**
+
+- [Storybook](https://storybook.js.org/)
+- [Bit](https://bit.cloud/frontend-teams)
+
 ### Customer journey map
 
 > **Note**: A customer journey map is a **diagram** (or several diagrams) that depict the stages customers go through when **interacting** with a company product or platform.
@@ -139,11 +144,6 @@ _Here you can see an example of a customer journey for an E-Commerce platform: t
 ### Documenting a design system
 
 > **Note**: Documenting is a fundamental act to make sure that project requirements are **fulfilled** and to establish traceability concerning **what** has been done, **who** has done it, and **when** it has been done.
-
-🎁 **Resources**
-
-- [Storybook](https://storybook.js.org/)
-- [Bit](https://bit.cloud/frontend-teams)
 
 > 😉 **<ins>Hint</ins>**: To keep a history of the changes made on a project you should create a [CHANGELOG.md](https://github.com/ChrisUser/design-systems-diary/blob/main/CHANGELOG.md) file and keep it in the root folder of the project itself.
 
