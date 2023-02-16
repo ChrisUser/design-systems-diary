@@ -94,6 +94,18 @@ _Here you can see various examples of web color palettes with dark and light col
 - [Twitter @a11y](https://twitter.com/a11y)
 - [A11y Mockups annotation kit](https://www.figma.com/community/file/953682768192596304)
 
+<br />
+
+**Learn accessibility standards:**
+
+- [😍] [MDN - WAI-ARIA Roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles)
+- [😍] [HTML : Importance of role for better voice-overs & accessibility](https://dev.to/rajeshkumaryadavdotcom/html-importance-of-role-for-better-voice-overs-accessibility-122a)
+- [😍] [a11y-101](https://a11y-101.com/)
+- [😮] [GitHub - HTML markup a11y checker](https://github.com/Muhnad/a11y-checker/blob/master/src/body/index.js)
+- [😉] [EAA Compliance for Websites:
+  The Definitive Guide](https://www.accessibilitychecker.org/guides/eaa-compliance/)
+- [😉] [7 Ways to Make Your Website More Accessible](https://www.adaptworldwide.com/insights/2021/make-website-more-accessible)
+
 ---
 
 ## Maintenance
