@@ -101,10 +101,11 @@ _Here you can see various examples of web color palettes with dark and light col
 
 **Learn accessibility standards:**
 
+- [😍] [MDN - ARIA Attributes](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes)
 - [😍] [MDN - WAI-ARIA Roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles)
 - [😍] [HTML : Importance of role for better voice-overs & accessibility](https://dev.to/rajeshkumaryadavdotcom/html-importance-of-role-for-better-voice-overs-accessibility-122a)
-- [😍] [a11y-101](https://a11y-101.com/)
-- [😮] [GitHub - HTML markup a11y checker](https://github.com/Muhnad/a11y-checker/blob/master/src/body/index.js)
+- [😮] [a11y-101](https://a11y-101.com/)
+- [😮] [How to Create a “Skip to Content” Link for accessibility](https://css-tricks.com/how-to-create-a-skip-to-content-link/)
 - [😉] [EAA Compliance for Websites:
   The Definitive Guide](https://www.accessibilitychecker.org/guides/eaa-compliance/)
 - [😉] [7 Ways to Make Your Website More Accessible](https://www.adaptworldwide.com/insights/2021/make-website-more-accessible)
