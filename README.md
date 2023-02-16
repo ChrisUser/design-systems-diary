@@ -1,7 +1,10 @@
 <h1 align=center>A design systems diary</h1>
 
-![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-blue.svg)
-![Topic: design](https://img.shields.io/badge/Topic-UI/UX_Design-g.svg)
+![Topic: design](https://img.shields.io/badge/Topic-UI/UX_Design-blue.svg)
+
+```diff
++ This is an ongoing project that needs constant revision so: contributions are welcome!
+```
 
 **How to contribute?**
 
