@@ -117,6 +117,7 @@ _Here you can see various examples of web color palettes with dark and light col
 🎁 **Resources**
 
 - [Storybook](https://storybook.js.org/)
+- [Storybook knobs - Dynamic props for your components](https://storybook.js.org/addons/storybook-addon-knobs-color-options)
 - [Bit](https://bit.cloud/frontend-teams)
 
 ### Customer journey map
