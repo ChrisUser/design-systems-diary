@@ -8,7 +8,7 @@
 
 **How to contribute?**
 
-If you know a resource or an interesting topic that isn't listed below nor detailed enough feel free to create a new [pull request](https://github.com/ChrisUser/design-systems-diary/pulls).
+If you know a resource or an interesting topic that isn't listed below nor detailed enough feel free to fork the project and to create a new [pull request](https://github.com/ChrisUser/design-systems-diary/pulls).
 
 **Basic info**
 
@@ -26,6 +26,7 @@ For some topics you will find the 🎁 icon indicating some fun practical resour
 
 - [Colors](#colors)
 - [Accessibility](#accessibility)
+- [Animations](#animations)
 - [Documentation](#topic-2)
 - [Maintenance](#maintenance)
 
@@ -109,6 +110,29 @@ _Here you can see various examples of web color palettes with dark and light col
 - [😉] [EAA Compliance for Websites:
   The Definitive Guide](https://www.accessibilitychecker.org/guides/eaa-compliance/)
 - [😉] [7 Ways to Make Your Website More Accessible](https://www.adaptworldwide.com/insights/2021/make-website-more-accessible)
+
+---
+
+## Animations
+
+🎁 **Resources**
+
+- [Easing functions](https://easings.net/)
+- [bendc/easing.css](https://gist.github.com/bendc/ac03faac0bf2aee25b49e5fd260a727d)
+- [Web Animation API - Browser support test](https://codepen.io/danwilson/pen/xGBKVq)
+- [Web Animation API - caniuse](https://caniuse.com/web-animation)
+
+<br />
+
+**Learn accessibility standards:**
+
+- [😍] [MDN - Web Animations API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API)
+- [😍] [JavaScript Scroll Animation Tutorial: Web Animations API](https://www.youtube.com/watch?v=ZRCzvK4DnlA)
+- [😍] [Animating Layouts with the FLIP Technique](https://css-tricks.com/animating-layouts-with-the-flip-technique/)
+- [😮] [How to create high-performance CSS animations](https://web.dev/animations-guide/)
+- [😮] [prefers-reduced-motion: Sometimes less movement is more](https://web.dev/prefers-reduced-motion/)
+- [😉] [The Web Animations API vs. CSS](https://blog.logrocket.com/the-web-animations-api-vs-css/)
+- [😉] [Orchestrating Complexity With Web Animations API](https://www.smashingmagazine.com/2021/09/orchestrating-complexity-web-animations-api/)
 
 ---
 
