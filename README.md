@@ -124,8 +124,6 @@ _Here you can see various examples of web color palettes with dark and light col
 
 <br />
 
-**Learn accessibility standards:**
-
 - [😍] [MDN - Web Animations API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API)
 - [😍] [JavaScript Scroll Animation Tutorial: Web Animations API](https://www.youtube.com/watch?v=ZRCzvK4DnlA)
 - [😍] [Animating Layouts with the FLIP Technique](https://css-tricks.com/animating-layouts-with-the-flip-technique/)
