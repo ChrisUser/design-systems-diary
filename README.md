@@ -115,6 +115,8 @@ _Here you can see various examples of web color palettes with dark and light col
 
 ## Animations
 
+> **Note**: "_Not everyone likes decorative animations or transitions, and some users outright experience motion sickness when faced with parallax scrolling, zooming effects, and so on._" - [Thomas Steiner](https://web.dev/authors/thomassteiner/)
+
 🎁 **Resources**
 
 - [Easing functions](https://easings.net/)
