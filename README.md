@@ -95,7 +95,7 @@ _Here you can see various examples of web color palettes with dark and light col
 
 🎁 **Resources**
 
-- [Twitter @a11y](https://twitter.com/a11y)
+- [Apple developer - Accessibility](https://developer.apple.com/design/human-interface-guidelines/accessibility)
 - [A11y Mockups annotation kit](https://www.figma.com/community/file/953682768192596304)
 
 <br />
