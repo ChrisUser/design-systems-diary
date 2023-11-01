@@ -25,6 +25,7 @@ For some topics you will find the 🎁 icon indicating some fun practical resour
 **What can be found inside this project?**
 
 - [Colors](#colors)
+- [Standards](#standards)
 - [Accessibility](#accessibility)
 - [Animations](#animations)
 - [Documentation](#topic-2)
@@ -84,6 +85,19 @@ _Here you can see various examples of web color palettes with dark and light col
 
 - [How to make your own color palettes](https://medium.com/@greggunn/how-to-make-your-own-color-palettes-712959fbf021)
 - [How to Not Suck at Color](https://modus.medium.com/how-to-not-suck-at-color-b3980ee8084a)
+
+---
+
+## Standards
+
+Standard and styleguides should be learned, understood, and implemented at **all times** on a project, and any deviation must be fully justified.
+
+**Learn styleguides and standards:**
+
+- [😍] [High-level advice and guidelines for writing sane, manageable, scalable CSS](https://cssguidelin.es/)
+- [😮] [IEC - Product symbols standards](https://webstore.iec.ch/preview/info_iec60417iso7000_DB.pdf)
+
+<br />
 
 ---
 
