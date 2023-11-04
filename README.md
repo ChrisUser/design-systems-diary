@@ -95,6 +95,7 @@ Standard and styleguides should be learned, understood, and implemented at **all
 **Learn styleguides and standards:**
 
 - [😍] [High-level advice and guidelines for writing sane, manageable, scalable CSS](https://cssguidelin.es/)
+- [😍] [Schema.org - Create, maintain, and promote schemas for structured data on the internet](https://schema.org/docs/documents.html)
 - [😮] [IEC - Product symbols standards](https://webstore.iec.ch/preview/info_iec60417iso7000_DB.pdf)
 
 <br />
