@@ -28,7 +28,7 @@ For some topics you will find the 🎁 icon indicating some fun practical resour
 - [Standards](#standards)
 - [Accessibility](#accessibility)
 - [Animations](#animations)
-- [Documentation](#topic-2)
+- [Documentation](#documentation)
 - [Maintenance](#maintenance)
 
 **Articles that inspired this work:**
@@ -197,7 +197,7 @@ _Here you can see an example of a customer journey for an E-Commerce platform: t
 
 <br/>
 
-### Documenting a design system
+### Documentation
 
 > **Note**: Documenting is a fundamental act to make sure that project requirements are **fulfilled** and to establish traceability concerning **what** has been done, **who** has done it, and **when** it has been done.
 
