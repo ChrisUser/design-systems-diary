@@ -25,10 +25,12 @@ For some topics you will find the 🎁 icon indicating some fun practical resour
 **What can be found inside this project?**
 
 - [Colors](#colors)
+- [Standards](#standards)
 - [Accessibility](#accessibility)
 - [Animations](#animations)
-- [Documentation](#topic-2)
+- [Documentation](#documentation)
 - [Maintenance](#maintenance)
+- [Feedback](#feedback)
 
 **Articles that inspired this work:**
 
@@ -84,6 +86,20 @@ _Here you can see various examples of web color palettes with dark and light col
 
 - [How to make your own color palettes](https://medium.com/@greggunn/how-to-make-your-own-color-palettes-712959fbf021)
 - [How to Not Suck at Color](https://modus.medium.com/how-to-not-suck-at-color-b3980ee8084a)
+
+---
+
+## Standards
+
+Standard and styleguides should be learned, understood, and implemented at **all times** on a project, and any deviation must be fully justified.
+
+**Learn styleguides and standards:**
+
+- [😍] [High-level advice and guidelines for writing sane, manageable, scalable CSS](https://cssguidelin.es/)
+- [😍] [Schema.org - Create, maintain, and promote schemas for structured data on the internet](https://schema.org/docs/documents.html)
+- [😮] [IEC - Product symbols standards](https://webstore.iec.ch/preview/info_iec60417iso7000_DB.pdf)
+
+<br />
 
 ---
 
@@ -182,7 +198,7 @@ _Here you can see an example of a customer journey for an E-Commerce platform: t
 
 <br/>
 
-### Documenting a design system
+### Documentation
 
 > **Note**: Documenting is a fundamental act to make sure that project requirements are **fulfilled** and to establish traceability concerning **what** has been done, **who** has done it, and **when** it has been done.
 
@@ -206,3 +222,15 @@ _Here you can see an example of a customer journey for an E-Commerce platform: t
 
 1. Needs to be maintained constantly over time for each small change made by everyone in the dev or design team
 2. Can become too specific or complicated if there's **lack of communication** between the parts
+
+---
+
+## Feedback
+
+> _There’s no better time than now to start thinking about how happy your customers, clients, or your staff (or whoever you’re surveying) really are._
+
+**Create a customer satisfaction survey:**
+
+- [😍] [4 steps to customer survey design](https://getthematic.com/insights/customer-survey-design/)
+- [😍] [Creating Customer Feedback Systems: A Step-By-Step Guide](https://userpilot.com/blog/customer-feedback-systems/)
+- [😮] [Gathering feedback on your design system](https://zeroheight.com/help/guides/gathering-feedback-on-your-design-system/)
