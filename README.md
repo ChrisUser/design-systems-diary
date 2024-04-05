@@ -30,6 +30,7 @@ For some topics you will find the 🎁 icon indicating some fun practical resour
 - [Animations](#animations)
 - [Documentation](#documentation)
 - [Maintenance](#maintenance)
+- [Feedback](#feedback)
 
 **Articles that inspired this work:**
 
@@ -221,3 +222,15 @@ _Here you can see an example of a customer journey for an E-Commerce platform: t
 
 1. Needs to be maintained constantly over time for each small change made by everyone in the dev or design team
 2. Can become too specific or complicated if there's **lack of communication** between the parts
+
+---
+
+## Feedback
+
+> _There’s no better time than now to start thinking about how happy your customers, clients, or your staff (or whoever you’re surveying) really are._
+
+**Create a customer satisfaction survey:**
+
+- [😍] [4 steps to customer survey design](https://getthematic.com/insights/customer-survey-design/)
+- [😍] [Creating Customer Feedback Systems: A Step-By-Step Guide](https://userpilot.com/blog/customer-feedback-systems/)
+- [😮] [Gathering feedback on your design system](https://zeroheight.com/help/guides/gathering-feedback-on-your-design-system/)
