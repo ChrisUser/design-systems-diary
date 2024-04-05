@@ -227,7 +227,7 @@ _Here you can see an example of a customer journey for an E-Commerce platform: t
 
 ## Feedback
 
-> There’s no better time than now to start thinking about how happy your customers, clients, or your staff (or whoever you’re surveying) really are.
+> _There’s no better time than now to start thinking about how happy your customers, clients, or your staff (or whoever you’re surveying) really are._
 
 **Create a customer satisfaction survey:**
 
