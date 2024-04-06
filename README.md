@@ -31,7 +31,7 @@ For some topics you will find the 🎁 icon indicating some fun practical resour
 - [Documentation](#documentation)
 - [Maintenance](#maintenance)
 - [Feedback](#feedback)
-- [Best practices](#bestpractices)
+- [Best practices](#best-practices)
 
 **Articles that inspired this work:**
 
