@@ -256,3 +256,5 @@ _Here you can see an example of a customer journey for an E-Commerce platform: t
 - When having two buttons on a column: place the main action on the **bottom**;
 - Always align the checkboxes to the top or bottom of the first line of text;
 - ...
+
+[⬆️ Back to top](https://github.com/ChrisUser/design-systems-diary?tab=readme-ov-file#a-design-systems-diary)
