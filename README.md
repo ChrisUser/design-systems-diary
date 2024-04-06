@@ -31,6 +31,7 @@ For some topics you will find the 🎁 icon indicating some fun practical resour
 - [Documentation](#documentation)
 - [Maintenance](#maintenance)
 - [Feedback](#feedback)
+- [Best practices](#bestpractices)
 
 **Articles that inspired this work:**
 
@@ -234,3 +235,24 @@ _Here you can see an example of a customer journey for an E-Commerce platform: t
 - [😍] [4 steps to customer survey design](https://getthematic.com/insights/customer-survey-design/)
 - [😍] [Creating Customer Feedback Systems: A Step-By-Step Guide](https://userpilot.com/blog/customer-feedback-systems/)
 - [😮] [Gathering feedback on your design system](https://zeroheight.com/help/guides/gathering-feedback-on-your-design-system/)
+
+---
+
+## Best practices
+
+### Finally, a little "best practice dump":
+
+- Always put lables or tooltips next to or near by icons in UI;
+- Best text input width should be 80 characters;
+- When designing a mobile UI adjust text size according to user distance from display;
+- For long dropdowns add a filter box to the top so users can type and find elements quicker;
+- Don’t force the user to search through a whole list of options, show the most popular choices at the top of the list;
+- Avoid dropdowns if you only have 3-5 options available, a better solution is to use Radio buttons;
+- Use `margin-inline-end` instead of `margin-right` to support rtl and ltr directions properties;
+- To make gradients look subtle and **realistic**, you can use just one color on both ends. Then make one of the ends brighter by increasing Brightness (around 5 points) and decrease Hue (5 to 10 points);
+- In dark mode avoid darker objects as top-layers. Anything that’s "closer" to the user should be lighter to show depth;
+- Brightness difference between background and container should be: within _12%_ for dark interfaces and _7%_ for light ones;
+- When having two buttons on a row: if you read left-to-right place the main action on the **right**;
+- When having two buttons on a column: place the main action on the **bottom**;
+- Always align the checkboxes to the top or bottom of the first line of text;
+- ...
