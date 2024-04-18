@@ -224,6 +224,17 @@ _Here you can see an example of a customer journey for an E-Commerce platform: t
 1. Needs to be maintained constantly over time for each small change made by everyone in the dev or design team
 2. Can become too specific or complicated if there's **lack of communication** between the parts
 
+<br/>
+
+### Testing
+
+> **Note**: Without UX testing, it’s impossible to know if your products are **really meeting** the user’s needs and providing a positive experience.
+
+<br/>
+
+- [😍] [15 Essential Project Documents](https://www.projectmanager.com/blog/great-project-documentation)
+- [😮] [Project Documentation and Its Importance in 2023](https://www.simplilearn.com/project-documentation-article)
+
 ---
 
 ## Feedback
