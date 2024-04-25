@@ -234,6 +234,7 @@ _Here you can see an example of a customer journey for an E-Commerce platform: t
 
 - [😍] [15 Essential Project Documents](https://www.projectmanager.com/blog/great-project-documentation)
 - [😮] [Project Documentation and Its Importance in 2023](https://www.simplilearn.com/project-documentation-article)
+- [😮] [How to test UI components?](https://www.browserstack.com/guide/test-ui-components)
 
 ---
 

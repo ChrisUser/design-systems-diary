@@ -1,6 +1,6 @@
 ## v1.0.1
 
-- Add **Testing** section
+- Add **Testing** "chapter" inside Maintenance section
 
 ---
 
