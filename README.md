@@ -128,6 +128,22 @@ Standard and styleguides should be learned, understood, and implemented at **all
   The Definitive Guide](https://www.accessibilitychecker.org/guides/eaa-compliance/)
 - [😉] [7 Ways to Make Your Website More Accessible](https://www.adaptworldwide.com/insights/2021/make-website-more-accessible)
 
+<br />
+
+**Best practices**
+
+- Use a label with a `for` attribute for all the inputs in a form and show input's relative examples in the placeholders.
+- Use a `<fieldset>` element to wrap radio buttons and a `<legend>` one to describe the choice.
+- Use `<button>` each time you want to have a button on the screen; try not to replace it with a generic `<div>` or other non specific elements.
+- Use `<nav>`, `<header>`, `<main>`, `<section>` and `<footer>` to define landmark regions inside your layouts.
+- If you have a list of points/items in a page you should use `<ul>` or `<ol>` element to wrap each item and `<li>` for every single child inside the list.
+- `font-size` defined in rem is a better choice in terms of responsiveness and accessibility.
+- Structure each section with headings using only one `<h1>` item per page and using consecutive headings numbers (`<h2>`, `<h3>`, ...) inside each section.
+- ARIA attributes could be used to fill the gap of accessibility features, interactions and roles (eg. if you use a `<span>` instead of a `<button>` to add a button inside a page); But: **Avoid using ARIA if a native HTML element can do the same job.**
+- `aria-live` and `aria-controls` can be used to alert screen readers that something, after a user action, has been updated inside the current page; (see [MDN - aria-live](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-live) & [MDN - aria-controls](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-controls) to learn more).
+- Programmable focus management is used to direct screen readers, or users in general, to a page update: opening of a modal, update of a previously disabled button after an action was performed, ...
+- Use a "Skip to main content" link with a tabindex of 0 to be the first focusable element in a page full of text to make the user flow directly into the content.
+
 ---
 
 ## Animations
